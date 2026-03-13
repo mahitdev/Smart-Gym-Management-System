@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(160deg, #f4fbff 0%, #fffaf2 100%);
+  min-height: 100vh;
+}
+
+.card {
+  border: 1px solid #e6e6e6;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+}
+
+.result-box {
+  background: #10202b;
+  color: #d6f2ff;
+  border-radius: 12px;
+  padding: 16px;
+  min-height: 140px;
+}
